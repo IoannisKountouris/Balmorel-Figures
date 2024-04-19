@@ -1,0 +1,15 @@
+Value,Color,Hatch,Textcolor
+WIND-ON,lightgreen,||,black
+WIND-OFF,lightblue,,black
+HYDRO-RUN-OF-RIVER,blue,,white
+ELECT-TO-HEAT,red,,white
+SOLAR-PV,yellow,,black
+SOLAR-HEATING,orange,||,black
+BOILERS,green,,white
+CHP-BACK-PRESSURE,grey,,white
+CHP-EXTRACTION,darkgrey,||,white
+CONDENSING,grey,,white
+HYDRO-RESERVOIRS,darkblue,,white
+INTERSEASONAL-HEAT-STORAGE,orchid,||,white
+INTRASEASONAL-ELECT-STORAGE,magenta,,black
+INTRASEASONAL-HEAT-STORAGE,violet,||,black

@@ -1,0 +1,303 @@
+1661520832518	geckodriver	INFO	Listening on 127.0.0.1:57143
+1661768908984	geckodriver	INFO	Listening on 127.0.0.1:64884
+1661768912042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileL02Ia4"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661768913144	Marionette	INFO	Marionette enabled
+1661768913154	Marionette	INFO	Listening on port 64898
+Read port: 64898
+1661768914111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileL02Ia4\\search.json.mozlz4", (void 0)))
+1661769357171	Marionette	INFO	Stopped listening on port 64898
+[Parent 13656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661769464725	geckodriver	INFO	Listening on 127.0.0.1:65149
+1661769467785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofiletAnsdG"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661769469102	Marionette	INFO	Marionette enabled
+1661769469116	Marionette	INFO	Listening on port 65161
+Read port: 65161
+1661769470133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofiletAnsdG\\search.json.mozlz4", (void 0)))
+1661769639966	Marionette	INFO	Stopped listening on port 65161
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+icy SearchEngines is only allowed on ESR
+1661769622206	Marionette	INFO	Marionette enabled
+1661769622217	Marionette	INFO	Listening on port 65239
+Read port: 65239
+1661769622659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilexb5CBx\\search.json.mozlz4", (void 0)))
+1661769626096	Marionette	INFO	Stopped listening on port 65239
+[Parent 21964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 21964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1661769631727	geckodriver	INFO	Listening on 127.0.0.1:65261
+1661769634753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile5OPW2t"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661769635604	Marionette	INFO	Marionette enabled
+1661769635611	Marionette	INFO	Listening on port 65275
+Read port: 65275
+1661769635957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile5OPW2t\\search.json.mozlz4", (void 0)))
+1661769638825	Marionette	INFO	Stopped listening on port 65275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=false
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661769644769	geckodriver	INFO	Listening on 127.0.0.1:65293
+1661769647765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileYNXVwl"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661769649011	Marionette	INFO	Marionette enabled
+1661769649024	Marionette	INFO	Listening on port 65305
+Read port: 65305
+Read port: 65305
+1661769650622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileYNXVwl\\search.json.mozlz4", (void 0)))
+1661769657764	Marionette	INFO	Stopped listening on port 65305
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1661769665901	geckodriver	INFO	Listening on 127.0.0.1:65342
+1661769668910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileqPvLjj"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661769670053	Marionette	INFO	Marionette enabled
+1661769670060	Marionette	INFO	Listening on port 65355
+Read port: 65355
+1661769670846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileqPvLjj\\search.json.mozlz4", (void 0)))
+1661769680280	Marionette	INFO	Stopped listening on port 65355
+[Parent 23104, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1661769883608	geckodriver	INFO	Listening on 127.0.0.1:65474
+1661769886619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile4p4IjF"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1661769887654	Marionette	INFO	Marionette enabled
+1661769887661	Marionette	INFO	Listening on port 65487
+Read port: 65487
+1661769888418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile4p4IjF\\search.json.mozlz4", (void 0)))
+1661769931431	Marionette	INFO	Stopped listening on port 65487
+1663571943062	geckodriver	INFO	Listening on 127.0.0.1:55389
+1663571946066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilesUrEU0"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663571951406	Marionette	INFO	Marionette enabled
+1663571951432	Marionette	INFO	Listening on port 55405
+Read port: 55405
+Read port: 55405
+Read port: 55405
+1663571954647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilesUrEU0\\search.json.mozlz4", (void 0)))
+1663571973003	Marionette	INFO	Stopped listening on port 55405
+1663572592848	geckodriver	INFO	Listening on 127.0.0.1:55859
+1663572595805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileoza5E3"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663572598127	Marionette	INFO	Marionette enabled
+1663572598142	Marionette	INFO	Listening on port 55871
+Read port: 55871
+Read port: 55871
+1663572599483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileoza5E3\\search.json.mozlz4", (void 0)))
+1663572614259	Marionette	INFO	Stopped listening on port 55871
+[Parent 4636, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1663617104728	geckodriver	INFO	Listening on 127.0.0.1:64369
+1663617107764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileVQRIQK"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663617110338	Marionette	INFO	Marionette enabled
+1663617110354	Marionette	INFO	Listening on port 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+Read port: 64386
+1663617132356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileVQRIQK\\search.json.mozlz4", (void 0)))
+1663617147321	Marionette	INFO	Stopped listening on port 64386
+1663617511250	geckodriver	INFO	Listening on 127.0.0.1:64609
+1663617514280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileTO8LJL"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663617516816	Marionette	INFO	Marionette enabled
+1663617516832	Marionette	INFO	Listening on port 64620
+Read port: 64620
+Read port: 64620
+1663617518321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileTO8LJL\\search.json.mozlz4", (void 0)))
+1663617545587	Marionette	INFO	Stopped listening on port 64620
+1663623076782	geckodriver	INFO	Listening on 127.0.0.1:50483
+1663623079742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileoO6AjV"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663623081642	Marionette	INFO	Marionette enabled
+1663623081658	Marionette	INFO	Listening on port 50499
+Read port: 50499
+Read port: 50499
+1663623083324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileoO6AjV\\search.json.mozlz4", (void 0)))
+1663623097098	Marionette	INFO	Stopped listening on port 50499
+1663623178494	geckodriver	INFO	Listening on 127.0.0.1:50582
+1663623181494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilei9KBfb"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663623182828	Marionette	INFO	Marionette enabled
+1663623182841	Marionette	INFO	Listening on port 50595
+Read port: 50595
+1663623183745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilei9KBfb\\search.json.mozlz4", (void 0)))
+1663623195179	Marionette	INFO	Stopped listening on port 50595
+1663682536500	geckodriver	INFO	Listening on 127.0.0.1:55730
+1663682539314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile4lon20"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663682543319	Marionette	INFO	Marionette enabled
+1663682543335	Marionette	INFO	Listening on port 55743
+Read port: 55743
+Read port: 55743
+1663682544947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile4lon20\\search.json.mozlz4", (void 0)))
+1663682684379	Marionette	INFO	Stopped listening on port 55743
+1663703735649	geckodriver	INFO	Listening on 127.0.0.1:51503
+1663703738536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileXvc5oe"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663703740046	Marionette	INFO	Marionette enabled
+1663703740061	Marionette	INFO	Listening on port 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+Read port: 51516
+1663703756602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileXvc5oe\\search.json.mozlz4", (void 0)))
+1663703823526	Marionette	INFO	Stopped listening on port 51516
+1663746878716	geckodriver	INFO	Listening on 127.0.0.1:49929
+1663746881501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileEXAoij"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663746883380	Marionette	INFO	Marionette enabled
+1663746883395	Marionette	INFO	Listening on port 49944
+Read port: 49944
+Read port: 49944
+1663746885324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileEXAoij\\search.json.mozlz4", (void 0)))
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663746902002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663748447141	Marionette	INFO	Stopped listening on port 49944
+3747340331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileNmg4uY"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663747341612	Marionette	INFO	Marionette enabled
+1663747341622	Marionette	INFO	Listening on port 50191
+Read port: 50191
+1663747341973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileNmg4uY\\search.json.mozlz4", (void 0)))
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+1663747346710	Marionette	INFO	Stopped listening on port 50191
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1663747645006	geckodriver	INFO	Listening on 127.0.0.1:50444
+1663747647970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile1q8I6G"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663747649063	Marionette	INFO	Marionette enabled
+1663747649073	Marionette	INFO	Listening on port 50456
+Read port: 50456
+1663747649409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile1q8I6G\\search.json.mozlz4", (void 0)))
+1663747661068	Marionette	INFO	Stopped listening on port 50456
+1663836065485	geckodriver	INFO	Listening on 127.0.0.1:52553
+1663836068509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofile4cdyX4"
+1663836326420	geckodriver	INFO	Listening on 127.0.0.1:52771
+1663836329425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileWbrYvw"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1663836330708	Marionette	INFO	Marionette enabled
+1663836330718	Marionette	INFO	Listening on port 52783
+Read port: 52783
+1663836331571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileWbrYvw\\search.json.mozlz4", (void 0)))
+1663836343837	Marionette	INFO	Stopped listening on port 52783
+1664097329003	geckodriver	INFO	Listening on 127.0.0.1:57283
+1664097332073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileCXnvRd"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1664097338094	Marionette	INFO	Marionette enabled
+1664097338111	Marionette	INFO	Listening on port 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+Read port: 57296
+1664097354367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofileCXnvRd\\search.json.mozlz4", (void 0)))
+1664097370117	Marionette	INFO	Stopped listening on port 57296
+1664097540293	geckodriver	INFO	Listening on 127.0.0.1:57403
+1664097543229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilerCMVPx"
+console.error: Enterprise Policies: 
+  Policy SearchEngines is only allowed on ESR
+1664097547258	Marionette	INFO	Marionette enabled
+1664097547296	Marionette	INFO	Listening on port 57432
+Read port: 57432
+Read port: 57432
+Read port: 57432
+Read port: 57432
+1664097551221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\iokoun\\AppData\\Local\\Temp\\rust_mozprofilerCMVPx\\search.json.mozlz4", (void 0)))
+1664097574815	Marionette	INFO	Stopped listening on port 57432
+[Parent 24740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

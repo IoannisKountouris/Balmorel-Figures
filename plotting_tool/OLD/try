@@ -1,0 +1,85 @@
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+
+# Create a map of Europe
+m = Basemap(projection='merc', llcrnrlat=35, urcrnrlat=70,
+            llcrnrlon=-20, urcrnrlon=40, lat_ts=20, resolution='i')
+m.drawcoastlines()
+m.fillcontinents(color='lightgray', lake_color='white')
+
+# Load data for transmission lines and substations
+transmission_lines = [(50.0, -10.0, 55.0, 5.0), (60.0, -5.0, 65.0, 10.0), (65.0, 5.0, 60.0, -5.0)]
+substations = [(50.0, -10.0, 800), (55.0, 5.0, 1000), (60.0, -5.0, 600), (65.0, 10.0, 500)]
+
+# Plot transmission lines on the map
+for line in transmission_lines:
+    x1, y1, x2, y2 = line
+    m.plot([x1, x2], [y1, y2], color='blue', linewidth=2)
+    # Add arrow showing direction of flow
+    plt.arrow(x1, y1, x2-x1, y2-y1, head_width=0.5, head_length=1, fc='red', ec='red')
+
+# Add markers for substations
+for station in substations:
+    x, y, capacity = station
+    m.scatter(x, y, color='red', s=capacity/10, alpha=0.5)
+
+# Add labels to the transmission lines and substations
+for line in transmission_lines:
+    x1, y1, x2, y2 = line
+    plt.annotate(s="Line", xy=((x1+x2)/2, (y1+y2)/2), ha='center', fontsize=8)
+
+for station in substations:
+    x, y, capacity = station
+    plt.annotate(s="Substation", xy=(x, y), ha='center', fontsize=8)
+
+# Add colorbar to indicate power flow
+plt.colorbar(label="Power flow (MW)")
+
+# Add legend
+plt.legend(handles=[plt.Line2D([], [], color='blue', label='Transmission lines'),
+                  plt.Scatter([], [], color='red', label='Substations')])
+
+# Display the map
+plt.show()
+
+
+ Create a map of Europe
+m = Basemap(projection='merc', llcrnrlat=35, urcrnrlat=70,
+            llcrnrlon=-20, urcrnrlon=40, lat_ts=20, resolution='i')
+m.drawcoastlines()
+m.fillcontinents(color='lightgray', lake_color='white')
+
+# Load data for transmission lines and substations
+transmission_lines = [(50.0, -10.0, 55.0, 5.0), (60.0, -5.0, 65.0, 10.0), (65.0, 5.0, 60.0, -5.0)]
+substations = [(50.0, -10.0, 800), (55.0, 5.0, 1000), (60.0, -5.0, 600), (65.0, 10.0, 500)]
+
+# Plot transmission lines on the map
+for line in transmission_lines:
+    x1, y1, x2, y2 = line
+    m.plot([x1, x2], [y1, y2], color='blue', linewidth=2)
+    # Add arrow showing direction of flow
+    plt.arrow(x1, y1, x2-x1, y2-y1, head_width=0.5, head_length=1, fc='red', ec='red')
+
+# Add markers for substations
+for station in substations:
+    x, y, capacity = station
+    m.scatter(x, y, color='red', s=capacity/10, alpha=0.5)
+
+# Add labels to the transmission lines and substations
+for line in transmission_lines:
+    x1, y1, x2, y2 = line
+    plt.annotate(s="Line", xy=((x1+x2)/2, (y1+y2)/2), ha='center', fontsize=8)
+
+for station in substations:
+    x, y, capacity = station
+    plt.annotate(s="Substation", xy=(x, y), ha='center', fontsize=8)
+
+# Add colorbar to indicate power flow
+plt.colorbar(label="Power flow (MW)")
+
+# Add legend
+plt.legend(handles=[plt.Line2D([], [], color='blue', label='Transmission lines'),
+                  plt.Scatter([], [], color='red', label='Substations')])
+
+# Display the map
+plt.show()
